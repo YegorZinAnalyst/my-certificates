@@ -13,7 +13,7 @@
 
 ---
 
-## 🏅 Kaggle (в процессе)
+## 🏅 Kaggle
 [![Kaggle Pandas](https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/yegorzinoviev/pandas)
 [![Kaggle SQL Advanced](https://img.shields.io/badge/Kaggle-SQL%20Advanced-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/yegorzinoviev/advanced-sql)
 
