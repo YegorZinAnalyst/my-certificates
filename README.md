@@ -7,7 +7,7 @@
 ### Skypro — «Аналитик данных»
 *552 часа. Python, SQL, Excel (Power Query), Google Sheets, A/B-тестирование, когортный анализ, дашборды.*
 
-[![Сертификат Skypro](./certificates/skypro/Sertification_Skypro_Zinoviev_Yegor.png)](.certificates/skypro/skypro-data-analyst-zinoviev.jpg)
+[![Сертификат Skypro](./certificates/skypro/skypro-data-analyst-zinoviev.jpg)](./certificates/skypro/skypro-data-analyst-zinoviev.jpg)
 
 *Нажмите на изображение для просмотра*
 
