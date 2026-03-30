@@ -1,2 +1,6 @@
-# my-certificates
-A collection of my professional certificates and course completion badges.
+# Мои сертификаты и достижения
+
+### Аналитика данных
+* **Skypro** — [Аналитик данных]
+  
+  ![Сертификат Skypro](./certificates/skypro/Sertification_Skypro_Zinoviev_Yegor.png)
